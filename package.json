@@ -1,0 +1,26 @@
+{
+  "name": "simplyreact",
+  "version": "1.0.0",
+  "description": "A ReactJS Boilerplate without too  much boilerplate",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herlarbs/SimplyReact.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "Boilerplate",
+    "Redux-saga",
+    "React-Router"
+  ],
+  "author": "herlarbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herlarbs/SimplyReact/issues"
+  },
+  "homepage": "https://github.com/herlarbs/SimplyReact#readme"
+}
