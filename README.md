@@ -1,7 +1,7 @@
 # SimplyReact
 A ReactJS boilerplate without too much boilerplate
 
-The central idea behind this boilerplate code is to provide developers with a professional codebase that to a great extent limit the startup code required to create a react native project
+The central idea behind this boilerplate code is to provide developers with a professional codebase that to a great extent limits the startup code required to create a react project
 
 # Why use SimplyReact
 > Most existing professional boilerplate packages introduce a whole new learning curve ( For God's sake you should be solving my problem not introducing more)
